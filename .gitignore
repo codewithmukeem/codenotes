@@ -47,3 +47,12 @@ Thumbs.db
 # Replit
 .cache/
 .local/
+.agents/
+
+# Expo build output
+artifacts/mobile/static-build/
+artifacts/mobile/.metro-cache/
+artifacts/mobile/node_modules/.cache/metro/
+
+# EAS
+.easignore
